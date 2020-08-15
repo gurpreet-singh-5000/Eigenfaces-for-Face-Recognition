@@ -4,6 +4,6 @@ LFW dataset is used in this problem. The data set has two parts- data and images
 ![I1](https://github.com/gurpreet-singh-5000/Eigenfaces-for-Face-Recognition/blob/master/Images/2D-TSNE.png)
 </div>
 ![I2](https://github.com/gurpreet-singh-5000/Eigenfaces-for-Face-Recognition/blob/master/Images/3D-TSNE.png)
-<div align="left">
+<div>
 ![I3](https://github.com/gurpreet-singh-5000/Eigenfaces-for-Face-Recognition/blob/master/Images/Eigenfaces.png)
 </div>
